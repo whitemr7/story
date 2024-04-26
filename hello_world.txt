@@ -1,0 +1,15 @@
+how to print hello world in java ,c++,javascript, python
+
+java {
+    system.out.println("hello world")
+}
+
+c++ {
+    cout<<"hello world";
+}
+javascript{
+    console.log("hello world")
+}
+python{
+ print("hello world")   
+}
